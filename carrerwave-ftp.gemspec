@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency "carrierwave", ["~> 0.8"]
-  s.add_dependency "net-sftp", ["~> 2.0.5"]
+  s.add_dependency "net-sftp", ["~> 2.1.1"]
   s.add_development_dependency "rspec", ["~> 2.6"]
   s.add_development_dependency "rake", ["~> 0.9"]
 end
